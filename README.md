@@ -1,2 +1,3 @@
+# Hi, I'm Eyüp
 
-<img width="800" src="https://raw.githubusercontent.com/eymel/eymel/master/gif/eymel.gif" alt=""/>
+I'm a full stack developer. 
